@@ -8,3 +8,5 @@
 *.unityproj
 *.userprefs
 .svn
+.idea
+target/
