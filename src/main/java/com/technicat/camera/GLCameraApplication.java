@@ -1,12 +1,16 @@
 package com.technicat.camera;
 
+import com.jogamp.opengl.GL;
+import com.jogamp.opengl.GLAutoDrawable;
+import com.jogamp.opengl.glu.GLU;
 import com.technicat.view3d.*;
 import com.technicat.jogl.*;
 import com.technicat.swing.*;
+import javafx.scene.PerspectiveCamera;
 
 import javax.vecmath.*;
-import javax.media.opengl.*;
-import javax.media.opengl.glu.*;
+//import javax.media.opengl.*;
+//import javax.media.opengl.glu.*;
 
 import javax.swing.*;
 import java.awt.*;

@@ -5,7 +5,7 @@ import com.jogamp.opengl.GLAutoDrawable;
 import com.jogamp.opengl.GLEventListener;
 import com.jogamp.opengl.awt.GLCanvas;
 import com.technicat.swing.*;
-import com.technicat.view3d.*;
+//import com.technicat.view3d.*;
 
 import javax.vecmath.*;
 //import javax.media.opengl.*;

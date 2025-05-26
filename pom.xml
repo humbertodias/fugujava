@@ -4,13 +4,13 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.exemplo</groupId>
+    <groupId>com.fugujava</groupId>
     <artifactId>fugujava</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>fugujava</name>
-    <description>Java framework that for running games in both J2ME and Swing.</description>
+    <description>Java framework that for running games in both J2ME and Swing</description>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -42,7 +42,6 @@
         </dependency>
         -->
 
-
         <!-- https://mvnrepository.com/artifact/org.jogamp.jogl/jogl-all-main -->
         <dependency>
             <groupId>org.jogamp.jogl</groupId>
@@ -67,7 +66,6 @@
             <artifactId>vecmath</artifactId>
             <version>1.5.2</version>
         </dependency>
-
 
     </dependencies>
 
@@ -102,7 +100,6 @@
             <url>https://maven.scijava.org/content/repositories/public/</url>
         </repository>
     </repositories>
-
 
 </project>
 
